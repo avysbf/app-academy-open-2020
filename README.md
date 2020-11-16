@@ -1,1 +1,3 @@
-# app-academy-open-2020
+# App Academy Open
+
+My solutions to App Academy Open 2020
