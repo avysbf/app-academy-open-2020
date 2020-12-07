@@ -4,9 +4,7 @@ def least_common_multiple(num_1, num_2)
     i = 1
     while true
         i += 1
-        if i % num_1 == 0 && i % num_2 == 0
-            return i
-        end  
+        return i if i % num_1 == 0 && i % num_2 == 0
     end
 end
 
